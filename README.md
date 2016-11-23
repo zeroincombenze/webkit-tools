@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/OCA/webkit-tools.svg?branch=8.0)](https://travis-ci.org/OCA/webkit-tools)
-[![Coverage Status](https://img.shields.io/coveralls/OCA/webkit-tools.svg?branch=8.0)](https://coveralls.io/r/OCA/webkit-tools?branch=8.0)
+[![Build Status](https://travis-ci.org/zeroincombenze/webkit-tools.svg?branch=8.0)](https://travis-ci.org/zeroincombenze/webkit-tools)
+[![Coverage Status](https://img.shields.io/coveralls/zeroincombenze/webkit-tools.svg?branch=8.0)](https://coveralls.io/r/zeroincombenze/webkit-tools?branch=8.0)
 
 Webkit Tools
 ============
