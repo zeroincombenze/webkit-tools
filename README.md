@@ -3,12 +3,15 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/webkit-tools/badge.svg?branch=9.0)](https://coveralls.io/github/zeroincombenze/webkit-tools?branch=9.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/webkit-tools/branch/9.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/webkit-tools/branch/9.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-9.svg)](https://github.com/OCA/webkit-tools/tree/9.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/9.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 Webkit Tools
-============
 
 Here you will find:
 
@@ -18,7 +21,6 @@ Here you will find:
 [//]: # (addons)
 
 Unported addons
----------------
 addon | version | summary
 --- | --- | ---
 [base_headers_webkit](base_headers_webkit/) | 8.0.1.0.0 (unported) | Common Webkit Headers and CSS for standard reports (sale, purchase, invoices, ...)
