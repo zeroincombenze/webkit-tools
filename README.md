@@ -21,7 +21,9 @@ Here you will find:
 
 [//]: # (addons)
 
+
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [base_headers_webkit](base_headers_webkit/) | 8.0.1.0.0 (unported) | Common Webkit Headers and CSS for standard reports (sale, purchase, invoices, ...)
