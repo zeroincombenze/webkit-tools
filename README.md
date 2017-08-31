@@ -33,4 +33,24 @@ is mainly designed for Italian law and markeplace.
 Everytime, every Odoo DB and customized code can be deployed on local server too.
 
 [//]: # (end copyright)
+[//]: # (addons)
+
+
+Available addons
+----------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[base_headers_webkit](base_headers_webkit/) | 1.0 |  N/D  | Common Webkit headers and CSS for standard reports (sale, purchase, invoices, ...)
+[report_webkit_barcode](report_webkit_barcode/) | 0.1 |  N/D  | Adds a barcode helper to webkit reports
+[report_webkit_multi_header](report_webkit_multi_header/) | 0.1 |  N/D  | Allows rendering the report header/footer for each object
+
+
+Unported addons
+---------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[report_webkit_chapter_server](report_webkit_chapter_server/) | 0.1 (unported) |  N/D  | Chapter server helper for report webkit
+
+[//]: # (end addons)
+
 [![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
