@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -24,10 +24,10 @@ Here you will find:
 
 Unported addons
 ---------------
-addon | version | summary
---- | --- | ---
-[base_headers_webkit](base_headers_webkit/) | 8.0.1.0.0 (unported) | Common Webkit Headers and CSS for standard reports (sale, purchase, invoices, ...)
-[report_webkit_chapter_server](report_webkit_chapter_server/) | 0.1 (unported) | Chapter server helper for report webkit
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[base_headers_webkit](base_headers_webkit/) | 8.0.1.0.0 (unported) | :repeat: | Common Webkit Headers and CSS for standard reports (sale, purchase, invoices, ...)
+[report_webkit_chapter_server](report_webkit_chapter_server/) | 0.1 (unported) | :repeat: | Chapter server helper for report webkit
 
 [//]: # (end addons)
 
