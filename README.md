@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -40,16 +40,16 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[base_headers_webkit](base_headers_webkit/) | 1.0 |  N/D  | Common Webkit headers and CSS for standard reports (sale, purchase, invoices, ...)
-[report_webkit_barcode](report_webkit_barcode/) | 0.1 |  N/D  | Adds a barcode helper to webkit reports
-[report_webkit_multi_header](report_webkit_multi_header/) | 0.1 |  N/D  | Allows rendering the report header/footer for each object
+[base_headers_webkit](base_headers_webkit/) | 1.0 | :repeat: | Common Webkit headers and CSS for standard reports (sale, purchase, invoices, ...)
+[report_webkit_barcode](report_webkit_barcode/) | 0.1 | :repeat: | Adds a barcode helper to webkit reports
+[report_webkit_multi_header](report_webkit_multi_header/) | 0.1 | :repeat: | Allows rendering the report header/footer for each object
 
 
 Unported addons
 ---------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[report_webkit_chapter_server](report_webkit_chapter_server/) | 0.1 (unported) |  N/D  | Chapter server helper for report webkit
+[report_webkit_chapter_server](report_webkit_chapter_server/) | 0.1 (unported) | :repeat: | Chapter server helper for report webkit
 
 [//]: # (end addons)
 
