@@ -14,6 +14,7 @@
 =========================
 
 Base wekbit headers and CSS
+===========================
 
 
   Contains data headers and css to design standard reports, used by:
@@ -40,6 +41,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -82,7 +85,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
